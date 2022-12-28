@@ -1,3 +1,4 @@
+
 public class EmployeeWage {
 
     public static void main(String[] args) {
@@ -9,6 +10,9 @@ public class EmployeeWage {
         }
         else {
             System.out.println("Employee is Absent");
+
+
+             System.out.println("For creating branch");
 
         }
     }
